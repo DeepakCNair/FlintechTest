@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateCheck", "DateCheck\DateCheck.csproj", "{3E37DDA3-FDA3-4FEA-8BD5-F051F0DA5A1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlintechTest.Server", "FlintechTest.Server\FlintechTest.Server.csproj", "{F7643AE0-D8B2-4BD2-95AE-495E69177877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E37DDA3-FDA3-4FEA-8BD5-F051F0DA5A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E37DDA3-FDA3-4FEA-8BD5-F051F0DA5A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E37DDA3-FDA3-4FEA-8BD5-F051F0DA5A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E37DDA3-FDA3-4FEA-8BD5-F051F0DA5A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7643AE0-D8B2-4BD2-95AE-495E69177877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7643AE0-D8B2-4BD2-95AE-495E69177877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7643AE0-D8B2-4BD2-95AE-495E69177877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7643AE0-D8B2-4BD2-95AE-495E69177877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1DAB25-D0C0-4CAB-9333-3C48DA040A10}
+	EndGlobalSection
+EndGlobal

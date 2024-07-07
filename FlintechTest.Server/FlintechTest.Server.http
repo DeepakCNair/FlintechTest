@@ -1,0 +1,6 @@
+@FlintechTest.Server_HostAddress = http://localhost:5216
+
+GET {{FlintechTest.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
